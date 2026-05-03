@@ -5,8 +5,6 @@ In Collaboration with tcsion RIO (Remote Internship Office)
 🏛️ PROJECT CREDENTIALS
 Institute: Jawaharlal Institute of Technology Vidhya Vihar, Borawan
 
-Certification: Completed under tcsion
-
 GitHub Repository: https://github.com/khushbuv870-afk/EventBook-Management-System
 
 1. ACKNOWLEDGEMENTS
